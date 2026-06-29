@@ -33,4 +33,4 @@ This folder contains the static web demo for the Firefly Synchronization models.
 ## Notes
 
 - The demo is built with p5.js and runs entirely in the browser.
-- `sketch.js` links UI controls to the visual simulation and chooses the active model.
+- `sketch.js` links UI controls to the visual simulation and chooses the active model.  
