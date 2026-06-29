@@ -1,4 +1,4 @@
-# Web Demo
+# ReadMe
 
 This folder contains the static web demo for the Firefly Synchronization models.
 
@@ -26,7 +26,7 @@ This folder contains the static web demo for the Firefly Synchronization models.
 
 - `Simulation`: select between `Kuramoto phase model` and `Mirollo-Strogatz pulse model`.
 - `K (coupling)`: changes coupling strength for the Kuramoto model.
-- `Noise`: adds random phase fluctuation to the Kuramoto model.
+- `Noise`: adds random phase fluctuation to the Kuramoto model.   
 - `Activation strength`: changes pulse strength for the Mirollo-Strogatz model.
 - `Oscillators`: sets the number of fireflies in the demo.
 
