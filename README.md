@@ -1,12 +1,11 @@
 # Web Demo
 
-This folder contains the static web demo for the Firefly Synchronization project.
+This folder contains the static web demo for the Firefly Synchronization models.
 
 ## Files
 
 - `index.html`
   - Main demo page.
-  - Loads the p5.js library and the simulation scripts.
   - Provides controls for selecting the simulation, adjusting coupling, noise, activation strength, and number of oscillators.
 
 - `sketch.js`
@@ -22,9 +21,6 @@ This folder contains the static web demo for the Firefly Synchronization project
   - Pulse-coupled Mirollo-Strogatz model implementation.
   - Creates the oscillator state, updates pulses and resets, and draws the fireflies based on pulse phases.
 
-## Usage
-
-Open `index.html` in a web browser. No server is required for basic usage.
 
 ## Controls
 
@@ -37,5 +33,4 @@ Open `index.html` in a web browser. No server is required for basic usage.
 ## Notes
 
 - The demo is built with p5.js and runs entirely in the browser.
-- The code is organized so each model is implemented in its own script file.
 - `sketch.js` links UI controls to the visual simulation and chooses the active model.
